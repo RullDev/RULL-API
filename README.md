@@ -1,5 +1,3 @@
-# Api-Github
-INI REST API...!!!!
 <p align="center"> 
  <img src="https://telegra.ph/file/31bf36bba2151033b71d4.jpg" alt="Rest Api" width="200"/> 
   
